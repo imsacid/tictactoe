@@ -47,7 +47,7 @@ This will start the development server, and you can access the game in your brow
 
 ## Play Online
 
-You can play the live version of the game here.
+You can play the live version of the game [here](https://imsacid.github.io/tictactoe/).
 
 ---
 
